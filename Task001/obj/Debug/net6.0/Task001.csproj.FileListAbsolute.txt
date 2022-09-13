@@ -1,0 +1,15 @@
+F:\Учеба\Языки программирования\Homework005\Task001\bin\Debug\net6.0\Task001.exe
+F:\Учеба\Языки программирования\Homework005\Task001\bin\Debug\net6.0\Task001.deps.json
+F:\Учеба\Языки программирования\Homework005\Task001\bin\Debug\net6.0\Task001.runtimeconfig.json
+F:\Учеба\Языки программирования\Homework005\Task001\bin\Debug\net6.0\Task001.dll
+F:\Учеба\Языки программирования\Homework005\Task001\bin\Debug\net6.0\Task001.pdb
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.csproj.AssemblyReference.cache
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.AssemblyInfoInputs.cache
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.AssemblyInfo.cs
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.csproj.CoreCompileInputs.cache
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.dll
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\refint\Task001.dll
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.pdb
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\Task001.genruntimeconfig.cache
+F:\Учеба\Языки программирования\Homework005\Task001\obj\Debug\net6.0\ref\Task001.dll
